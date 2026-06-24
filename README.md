@@ -1,38 +1,56 @@
-# Automotive Analytics Dashboard — IBM Cognos
+# Automotive Sales Analytics Dashboard
 
-## Project Overview
-This project analyzes automotive sales, profit, customer sentiment, and recall patterns using IBM Cognos Analytics. The dashboard was created to help stakeholders understand business performance, customer feedback, and potential quality issues across car models.
+## Overview
+
+This project analyzes automotive sales performance, dealer profitability, customer sentiment, and vehicle recall trends using IBM Cognos Analytics.
+
+The goal was to create an executive-level dashboard that provides actionable insights into business performance and customer experience across a dealership network.
 
 ## Tools Used
+
 - IBM Cognos Analytics
+- Microsoft Excel
 - Data Visualization
-- Dashboard Design
 - Business Intelligence
 
-## Dashboard Panels
+## Dataset
 
-### 1. Sales and Profit Analysis
-Visualized quantity of cars sold per month compared to profit using a line and column chart.
+The project combines multiple datasets including:
 
-### 2. Customer Sentiment Analysis
-Compared positive, neutral, and negative customer reviews using a treemap.
+- Daily Sales
+- Sales by Model
+- Dealer Information
+- Customer Sentiment
+- Vehicle Recalls
 
-### 3. Recall Analysis
-Created a heat map showing the number of recalls by model and affected system.
+Total records analyzed: 247,000+
 
-### 4. Business Insights
-The dashboard helps identify:
-- Monthly sales trends
-- Profit performance
-- Customer sentiment distribution
-- Recall outliers by model and system
+## Dashboard Features
 
-## Key Skills Demonstrated
-- Data storytelling
-- Dashboard layout design
-- KPI interpretation
-- Business intelligence reporting
-- IBM Cognos visualization
+### Sales Dashboard
 
-## Portfolio Link
-Dashboard created in IBM Cognos Analytics.
+- Total Profit KPI
+- Quantity Sold KPI
+- Average Quantity Sold
+- Quantity Sold by Model
+- Profit by Dealer
+
+### Service Dashboard
+
+- Recalls by Model
+- Customer Sentiment Treemap
+- Monthly Sales vs Profit
+- Recall Heatmap
+
+## Skills Demonstrated
+
+- Data Analysis
+- Dashboard Development
+- KPI Creation
+- Business Intelligence
+- Executive Reporting
+- Data Visualization
+
+## Project Background
+
+This project was completed as part of the IBM Data Analyst Professional Certificate and expanded into a portfolio project.
